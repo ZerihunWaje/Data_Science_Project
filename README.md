@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZerihunWaje
-- 👀 I’m interested in data analytics
+- 👀 I’m interested in machine learning and AI
 - 🌱 I’m currently learning Msc data analytics
-- 💞️ I’m looking to collaborate on python,Mysql,and power BI 
+- 💞️ I’m looking to collaborate on MLand AI
 - 📫 How to reach me ...
 
 <!---
